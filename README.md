@@ -13,11 +13,3 @@
 <img src="http://code.cocoachina.com/uploads/attachments/20160122/129297/625f0518744ef301b440abe6a03f8822.gif" height="500">
 <img src="http://code.cocoachina.com/uploads/attachments/20160122/129297/b3035cbd5b74d7e1365d040ed486873f.gif" height="500">
 </div>
-
-## 联系我
-
-juvham@foxmail.com
-
-## License
-
-Released under the MIT license. See [LICENSE(`MIT`)](https://github.com/juvham/OneMoreThing/blob/master/LICENSE "MIT License") for detail
